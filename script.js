@@ -15,7 +15,7 @@ const noMessages = [
     "Pretty please... 🥺",
     "If you say no, I will be despodent...",
     "I will be very sad... 😢",
-    "Im on my hands and knees??? 💔",
+    "Im on my hands and knees??? 💔🙏",
     "Don't do this to me...",
     "Last chance! 😭",
     "You can't catch me anyway 😜"
